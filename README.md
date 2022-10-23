@@ -8,9 +8,9 @@ Contact PhoneBook App help the user to save contact identity.
 # Front_End
 
 - ReactJS (ES6)
-- react-router (Single Page Application)
-- redux
-- redux-thunk
+- React-Router 
+- Redux
+- Redux-Thunk
 - CSS
 
 # Back-End
